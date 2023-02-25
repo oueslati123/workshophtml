@@ -1,0 +1,14 @@
+.entete {
+  border-style: solid;
+  border-color: brown;
+}
+
+.container {
+  border-style: solid;
+  border-color: blue;
+}
+
+section {
+  background-color: violet;
+  color: blue;
+}
